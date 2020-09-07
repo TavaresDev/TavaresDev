@@ -47,5 +47,5 @@
 
 
 
-[website]: https://andretavares.dev
+[website]: https://www.andretavares.dev/
 [linkedin]: https://linkedin.com/in/andre--tavares
