@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://www.andretavares.dev/](andreTavares.dev)
+- 👨‍💻 All of my projects are available at [andreTavares.dev](https://www.andretavares.dev)
 
 - 📫 How to reach me **Vtavares.andre@gmail.com**
 
