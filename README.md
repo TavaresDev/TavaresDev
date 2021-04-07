@@ -5,9 +5,9 @@
 <h3 align="center">A passionate developer Creating and Learning something new everyday</h3>
 
 
-- 🔭 I’m currently working on **Asp.net CMS for a Store**
+- 🔭 I’m currently working on **[andreTavares.dev](https://movie-app-gamma-gold.vercel.app/) with React and Node** Any feedback is welcome
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Typescript and tailwindcss**
 
 - 👨‍💻 All of my projects are available at [andreTavares.dev](https://www.andretavares.dev)
 
@@ -24,8 +24,9 @@
 
 <p align="left">
 
+https://github.com/tkswann2/tech-logos/blob/master/jslogo.png
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
 
