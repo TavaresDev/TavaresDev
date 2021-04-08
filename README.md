@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andretavares.dev" src="https://img.shields.io/badge/-Tavares.dev-success" />][website]
+[<img align="left" alt="andretavares.dev" src="https://img.shields.io/badge/Tavares.dev-%234ea94b.svg?&style=for-the-badge&logo=&logoColor=white" />][website]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 <br />
 
