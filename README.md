@@ -1,8 +1,8 @@
 
+<img src="/header.png" alt="mongodb" /> 
 
 
-<h1 align="center">Hi 👋, I'm Andre Tavares</h1>
-<h3 align="center">A passionate Software Developer, specialist in JavaScript and passionate about UX.</h3>
+<h3 align="center">A creative Software Developer, specialist in JavaScript and passionate about UX</h3>
 
 
 - 🔭 I’m currently working on **a [Movie App](https://movie-app-gamma-gold.vercel.app/) with React and Node** Any feedback is welcome
@@ -35,7 +35,7 @@
 <img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="Node" width="40" height="40"/> 
 <img src="https://github.com/tkswann2/tech-logos/blob/master/mongoose.png" alt="mongoose" width="80" height="40"/> 
 <img src="https://github.com/tkswann2/tech-logos/blob/master/mongo.png" alt="mongodb" width="80" height="40"/> 
-
+<img src="https://seeklogo.com/vector-logo/273749/node-js" alt="mongodb" width="40" height="40"/> 
 
 
 </p>
