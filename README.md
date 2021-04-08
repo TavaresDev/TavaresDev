@@ -1,11 +1,12 @@
 
-<img src="/header.png" alt="mongodb" /> 
+<h1 align="center">Hi 👋, I'm Andre Tavares</h1>
 
 
 <h3 align="center">A creative Software Developer, specialist in JavaScript and passionate about UX</h3>
+<br /><br />
 
 
-- 🔭 I’m currently working on **a [Movie App](https://movie-app-gamma-gold.vercel.app/) with React and Node** Any feedback is welcome
+- 🔭 I’m currently working on **a [Movie App](https://movie-app-gamma-gold.vercel.app/) with React and Node.** Any feedback is welcome
 
 - 🌱 I’m currently learning **Typescript and tailwindcss**
 
@@ -19,23 +20,38 @@
 ### Connect with me:
 
 [<img align="left" alt="andretavares.dev" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="likedin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 <br />
 
 ### Tech I Like
 
 <p align="">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <br />
 
-<img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="js" width="40" height="40"/> 
-<img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" alt="Typescript" width="40" height="40"/> 
-<img src="https://github.com/tkswann2/tech-logos/blob/master/css3.png" alt="css3" width="40" height="40"/> 
-<img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="40" height="40"/> 
+  
+### Tech I used before
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-<br />
-<img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="Node" width="40" height="40"/> 
-<img src="https://github.com/tkswann2/tech-logos/blob/master/mongoose.png" alt="mongoose" width="80" height="40"/> 
-<img src="https://github.com/tkswann2/tech-logos/blob/master/mongo.png" alt="mongodb" width="80" height="40"/> 
-<img src="https://seeklogo.com/vector-logo/273749/node-js" alt="mongodb" width="40" height="40"/> 
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+
+
+<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+
 
 
 </p>
@@ -44,5 +60,8 @@
 
 
 
+[comment]: <> (https://github.com/Ileriayo/markdown-badges#programming-languages)
+
 [website]: https://www.andretavares.dev/
 [linkedin]: https://linkedin.com/in/andre--tavares
+
